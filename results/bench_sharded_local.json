@@ -1,0 +1,122 @@
+[
+ {
+  "mode": "local",
+  "variant": "zarr_256",
+  "win": 64,
+  "ms_med": 1.1202499736100435,
+  "ms_p95": 1.9878049264661963,
+  "chunks": 1.5,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_256",
+  "win": 512,
+  "ms_med": 3.797299927100539,
+  "ms_p95": 4.667355085257441,
+  "chunks": 9.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_256",
+  "win": 2048,
+  "ms_med": 33.164900029078126,
+  "ms_p95": 34.32321499567479,
+  "chunks": 81.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_256",
+  "win": 8192,
+  "ms_med": 443.69034992996603,
+  "ms_p95": 505.25504496181384,
+  "chunks": 1089.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarrsh_2048_256",
+  "win": 64,
+  "ms_med": 1.6844500787556171,
+  "ms_p95": 11.2867550458759,
+  "chunks": 1.5,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarrsh_2048_256",
+  "win": 512,
+  "ms_med": 4.118499928154051,
+  "ms_p95": 4.8248701030388474,
+  "chunks": 9.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarrsh_2048_256",
+  "win": 2048,
+  "ms_med": 32.01695007737726,
+  "ms_p95": 39.459305023774505,
+  "chunks": 81.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarrsh_2048_256",
+  "win": 8192,
+  "ms_med": 412.01704996638,
+  "ms_p95": 417.85573004744947,
+  "chunks": 1089.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_2048",
+  "win": 64,
+  "ms_med": 27.167199994437397,
+  "ms_p95": 37.07990497350692,
+  "chunks": 1.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_2048",
+  "win": 512,
+  "ms_med": 28.281199978664517,
+  "ms_p95": 39.08360501518472,
+  "chunks": 1.25,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_2048",
+  "win": 2048,
+  "ms_med": 55.94259989447892,
+  "ms_p95": 59.6688149147667,
+  "chunks": 4.0,
+  "reqs": null,
+  "mb": null
+ },
+ {
+  "mode": "local",
+  "variant": "zarr_2048",
+  "win": 8192,
+  "ms_med": 264.5494000753388,
+  "ms_p95": 285.1072699762881,
+  "chunks": 25.0,
+  "reqs": null,
+  "mb": null
+ }
+]

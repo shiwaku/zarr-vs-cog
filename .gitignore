@@ -1,0 +1,4 @@
+data/
+.venv/
+results/http_requests*.log
+results/server.*
